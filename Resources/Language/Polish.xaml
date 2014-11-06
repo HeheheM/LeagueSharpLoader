@@ -8,7 +8,7 @@
 
     <!-- MainWindow Tabs -->
     <system:String x:Key="News">Aktualności</system:String>
-    <system:String x:Key="Assemblies">Assembly</system:String>
+    <system:String x:Key="Assemblies">Assemblies</system:String>
 
     <!-- MainWindow Profile selector -->
     <system:String x:Key="DefaultProfile">Domyślny</system:String>
@@ -34,7 +34,7 @@
 	
     <!-- MainWindow Buttons -->
     <system:String x:Key="UpdateAll">Aktualizuj Wszystko</system:String>
-    <system:String x:Key="CompileAll">Skompiluj Wszystko</system:String>
+    <system:String x:Key="CompileAll">Kompiluj Wszystko</system:String>
     <system:String x:Key="InstallNewAssembly">Zainstaluj Nowe Skrypty</system:String>
 
     <!-- InstallerWindow Title -->
